@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"MainframeFIles","l":"cashierMainFrame"},{"p":"MainframeFIles","l":"dbSetup"},{"p":"MainframeFIles","l":"editInventory"},{"p":"MainframeFIles","l":"Login"},{"p":"MainframeFIles","l":"ManagerAnalytics"},{"p":"MainframeFIles","l":"managerMainFrame"}];updateSearchResults();
